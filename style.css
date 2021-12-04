@@ -46,3 +46,6 @@ li{
 #top{
   position: relative;
   top: -60px;}
+.anchor, .anchor:visited{
+  color: black;
+}
